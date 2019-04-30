@@ -6574,150 +6574,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -6739,150 +6596,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -6904,62 +6618,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7003,73 +6662,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7091,161 +6684,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[h].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7267,150 +6706,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7432,62 +6728,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7531,73 +6772,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7619,139 +6794,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[h].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7773,62 +6816,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7872,73 +6860,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -7960,61 +6882,6 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
@@ -8026,62 +6893,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8125,39 +6937,6 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
@@ -8169,40 +6948,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8279,51 +7025,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8367,51 +7069,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8455,73 +7113,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8543,62 +7135,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8642,73 +7179,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8730,128 +7201,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[h].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[ea].?[t].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -8873,150 +7223,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9038,62 +7245,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9137,73 +7289,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9225,161 +7311,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[h].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[mn].?[y].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9401,150 +7333,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9566,62 +7355,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9665,73 +7399,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -9753,61 +7421,6 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[ea].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
@@ -9819,150 +7432,7 @@
             "unless-domain": [
                 "*myetherwallet.com"
             ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[h].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[ea].?[t].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[wv].?[ae].?[li1t].?[li1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[r].?[wv].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[ea].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
-        }
-    },
-    {
-        "action": {
-            "type": "block"
-        },
-        "trigger": {
-            "unless-domain": [
-                "*myetherwallet.com"
-            ],
-            "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[y].?[t].?[h].?[r].?[wv].?[ae].?[li1t].?[li1t].?[ea].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
     },
     {
@@ -10125,7 +7595,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[h].?[ae].?[p].?[ea].?[s].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10136,7 +7607,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[ae].?[p].?[ea].?[s].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10147,7 +7619,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[ea].?[s].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10158,7 +7631,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[ea].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10169,7 +7643,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[ea].?[s].?[h].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10180,7 +7655,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[ea].?[s].?[h].?[il1t].?[f].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10191,7 +7667,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[ea].?[s].?[h].?[il1t].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10202,7 +7679,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[ea].?[s].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10213,7 +7691,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[ae].?[p].?[s].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
@@ -10224,7 +7703,8 @@
         },
         "trigger": {
             "unless-domain": [
-                "*shapeshift.com"
+                "*shapeshift.com",
+                "*shapeshift.io"
             ],
             "url-filter": "https?://([a-z0-9\\-]*\\.)*(xn\\-\\-)?.?[s].?[h].?[p].?[ea].?[s].?[h].?[il1t].?[f].?[t].?(\\-[a-z0-9]*)?([a-z0-9\\-]*\\.)*\\..*"
         }
